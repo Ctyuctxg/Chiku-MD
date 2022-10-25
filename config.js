@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['201015027470']
-global.OwnerNumber = ['201015027470']
-global.ownertag = ['201015027470']
-global.BotName = "❤️𝘉𝘖𝘛 𝘏𝘌𝘕𝘙𝘠 𝘌𝘓𝘔𝘖𝘋𝘈𝘔𝘌𝘙❤ `️"
-global.packname = "★هينري يروحي★"
-global.author = "★01015027470 ★"
-global.OwnerName = "𝘏𝘌𝘕𝘙𝘠 𝘌𝘓𝘔𝘖𝘋𝘈𝘔𝘌𝘙❤ `️"
-global.BotSourceCode = "https://www.facebook.com/profile.php?id=100059340367686"
-global.SupportGroupLink = "https://www.facebook.com/profile.php?id=100059340367686"
+global.Owner = ['201279251079']
+global.OwnerNumber = ['201279251079']
+global.ownertag = ['201279251079']
+global.BotName = "🔱*SATO BOT*🔱 `️"
+global.packname = "★ارمين يا قلبي★"
+global.author = "★01279251079★"
+global.OwnerName = "🔱Armin turbo🔱 `️"
+global.BotSourceCode = "https://wa.me/qr/unccrvvz2xpab1"
+global.SupportGroupLink = "https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn"
 global.sessionName = "session"
 
 // Prefix //
@@ -27,7 +27,7 @@ global.location = "bihar, India"
 global.reactmoji = "❤️"
 global.themeemoji = "🍭"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://www.facebook.com/profile.php?id=100059340367686"
+global.websitex = "https://wa.me/qr/unccrvvz2xpab1"
 global.lolhuman = "KaysaS"
 
 
