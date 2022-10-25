@@ -6,7 +6,7 @@
 
 
 </p>
-<h1 align="center">🔱Armin the king🔱
+<h1 align="center">🔱Armin Arlirt🔱
 </h1>
 <p align="center"> 
   Konochiwa Senpai, I am "chiku md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
