@@ -36,7 +36,7 @@
 </br>
   
 
-## ✧✧✧ Why use chiku as your Base?
+## ✧✧✧ Why use sato as your Base?
 
 ```
 1. Copyright Free.
