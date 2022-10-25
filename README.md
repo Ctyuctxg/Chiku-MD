@@ -1,5 +1,5 @@
 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="center" alt="GIF" src="(https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 
@@ -9,7 +9,7 @@
 <h1 align="center">🔱Armin Arlirt🔱
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "chiku md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Mohammed Anwer, I am "sato md " a WhatsApp bot made by Armin to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
   <a href="https://github.com/Ayush-pandey-u/Chiku-MD/fork">
