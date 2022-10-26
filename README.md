@@ -3,6 +3,9 @@
 <ig src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <ig align="center" alt="GF" src="(https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+<h3 align="left">تواصل معي:</h3>
+<p align="left">
+<a href="https://www.instagram.com/tu.r.b.o?r=nametag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" target="blank"><ig align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pepe.sir_" height="30" width="40" /></a><a href="https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
 
 
 
