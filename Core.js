@@ -1326,7 +1326,7 @@ const ftroli = {
 
 
     const menulist = `
-    Konichiwa ${pushname} dear 👋. I am/انا العزيز ${global.BotName}, a bot developed by: Henry to take your WhatsApp usage into next level/روبوت تم تطويره بواسطة: هينري للانتقال باستخدام واتساب إلى المستوى التالي.
+    Konichiwa ${pushname} dear 👋. I am/انا العزيز ${global.BotName}, a bot developed by: Henry to take your WhatsApp usage into next level/روبوت تم تطويره بواسطة: ارمين للانتقال باستخدام واتساب إلى المستوى التالي.
         
        「 System Info 」
     
@@ -1373,7 +1373,7 @@ switch(command) {
     case 'sc': case 'التبرع': case 'sourcecode': {
         if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
-    teks = `*${global.BotName}'s Script*\n\n*Yotube/يوتيوب*: ${global.BotSourceCode}\n\nلا تنسي الاشتراك بقناه اليوتيوب⭐️. `
+    teks = `*${global.BotName}'s Script*\n\n*Instagram/انستا*: ${global.BotSourceCode}\n\nلا تنسي أن المتابعه علي الانستا⭐️. `
     let buttons = [
     {buttonId: `-menu`, buttonText: {displayText: '✨Bot Menu/قائمه البوت✨'}, type: 1}
     ]
@@ -1481,13 +1481,13 @@ if (isBanChat) return reply(mess.banChat)
 reply(` Don't forget to join yeah/لا تنسي الانضمام معنا❤️!
 
 *GROUP/جروب 1*
-https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn
+https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn
 
 *GROUP/جروب 2*
-https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY
+https://chat.whatsapp.com/fju4oabyvh7apv7yqcl65s
 
 *GROUP/جروب 3*
-https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn`)
+https://chat.whatsapp.com/fju4oabyvh7apv7yqcl65s`)
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
@@ -1501,7 +1501,7 @@ break
 
 case 'support': case 'الدعم':
     
-    reply(`*My developer's group/جروب الدعم:*https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn `)
+    reply(`*My developer's group/جروب الدعم:*https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn`)
     break
 
 case 'الشرح': case 'الوصف':
@@ -1509,21 +1509,21 @@ case 'الشرح': case 'الوصف':
     reply(`*⌬━─━─｢🤖｣─━─━⌬*
 *↵｢مــــــرحبــاً بكم 🗿｣*
 
-*↵｢قروب تعليم صناعة البوتات 😁｣*
+*↵｢انا ساتو بوت 😁｣*
 
-*↵｢المقدم｣*
+*↵｢من امبراطورية سكاي｣*
 
-*↵｢اياتو سينسي | رايزل سينسي | لوفي عمكم سينسي｣*
-*↵｢كيف تسوي بوت عربي｣*
-*↵｢ https://youtu.be/MBPIx3f-VIA ｣*
-*↵｢كيف تعدل على اوامر البوت العربي｣*
-*↵｢https://youtu.be/NQBGISZsBdU｣*
-*｢رابط الاوامر الجديدة｣*
-*｢https://youtu.be/zA_AF7EtKn4｣*
-*↵｢نرجو ان تعملو لايك والاشتراك منها عشان يكبر جروب التعليم ومنها عشان ينتشر الفيديو والكل يستفيد✨🤗｣*
+*↵｢تحت قيادة ايس｣*
+*↵｢ https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn ｣*
+*↵｢ده جروب الدعم ☝️｣*
+*↵｢ https://chat.whatsapp.com/fju4oabyvh7apv7yqcl65s ｣*
+*↵｢ده جروب اخبار الانمي☝️｣*
+*｢لكل جديد في عالم الانمي｣*
+*｢ https://wa.me/qr/4nmv7bnsdpq2g1 ｣*
+*↵｢ده الوتس بتاعي خش دردش معايا☝️｣*
 
-*↵｢القروب｣*
-*↵｢ https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn ｣*
+*↵｢المطور｣*
+*↵｢ارمين ارليرت｣*
 *⌬━─━─｢🤖｣─━─━⌬*`)
     break
 
@@ -1531,7 +1531,7 @@ case 'قائمه.الاباحي':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
     if (!AntiNsfw) return reply(mess.nonsfw)
-        reply(` *━━━〈  📛 NSFW Menu/قائمه الاباحي 📛  〉━━━*\n\nمفيش اباحي ولا حاجه يعم صلي علي النبي في قلبك وسيبك من اللي بتعملو دا🌚❤️`)
+        reply(` *━━━〈habl Menu/قائمه الهبل〉━━━*\n\nمفيش هبل ولا حاجه يعم صلي علي النبي في قلبك دا😂❤️`)
     break
 
 case 'reaction': case 'react': case 'reactions': case 'r':
@@ -4826,7 +4826,7 @@ case 'help': case 'القائمه': case 'menu': case 'allmenu': case 'الاو�
       
  const helpmenu = `Hii/هاي *${pushname}*,
 
-I am *ᕼᗴᑎᖇY ᗷOT❤️*, a bot developed by *ᕼᗴᑎᖇY ᗴᒪᗰOᗪᗩᗰᗴᖇ❤️*/ أنا * ᕼᗴᑎᖇY ᗷOT❤️ * ، روبوت تم تطويره بواسطة * ᕼᗴᑎᖇY ᗴᒪᗰOᗪᗩᗰᗴᖇ❤️ *.
+I am *🔱Sato Bot🔱*, a bot developed by *🔱Mohammed🔱*/ أنا *🔱Sato Bot🔱* ، روبوت تم تطويره بواسطة *🔱Armin Arlirt🔱*.
 
 ♠️ My prefix is/البادئة الخاصة بي هي:  ${prefix}
  
@@ -4959,11 +4959,11 @@ I am *ᕼᗴᑎᖇY ᗷOT❤️*, a bot developed by *ᕼᗴᑎᖇY ᗴᒪᗰO�
 🎗igtv
 🎗facebook
 🎗fbmp3
-🎗twitter
+🎗twitter   
 🎗twittermp3
-🎗tiktok
+🎗tiktok     
 🎗tiktokaudio
-🎗tiktoknowm
+🎗tiktoknowm 
 🎗mediafire  
 
  *━━━〈  🈴 Weeb/قائمه عشوائيه 🈴  〉━━━*
@@ -5032,11 +5032,11 @@ I am *ᕼᗴᑎᖇY ᗷOT❤️*, a bot developed by *ᕼᗴᑎᖇY ᗴᒪᗰO�
 🧨fliptext
 🧨toletter
 
- *━━━〈  💥 NSFW/قائمه الاباحي 💥  〉━━━*
+ *━━━〈 😂 hapl/قائمه الهبل😂 〉━━━*
 
-🍁 click nsfw Button to act nsfw/انقر فوق زر الاباحي للعمل 🔞
+🤣 click nsfw Button to act hapl/انقر فوق زر الهبل للعمل 😂
 
-🍁 Then type/ثم اكتب " *${prefix}قائمه.الاباحي* " to get full list of NSFW commands/للحصول على قائمة كاملة بأوامر الاباحي.
+🤣 Then type/ثم اكتب " *${prefix}قائمه.الهبل* " to get full list of hapl commands/للحصول على قائمة كاملة بأوامر .
 
 
 
@@ -5050,7 +5050,7 @@ I am *ᕼᗴᑎᖇY ᗷOT❤️*, a bot developed by *ᕼᗴᑎᖇY ᗴᒪᗰO�
 
     {buttonId: `-owner`, buttonText: {displayText: 'Bot Owner/مطور البوت'}, type: 1},
 
-    {buttonId: `-nsfw`, buttonText: {displayText: 'NSFW/الاباحي🤢'}, type: 1}
+    {buttonId: `-nsfw`, buttonText: {displayText: 'hapl/الهبل'}, type: 1}
 
     ]
                 let buttonMessage = {
