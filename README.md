@@ -61,9 +61,9 @@
 
 <a href="https://youtu.be/DcJ7qMXUcTM"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
 
-Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
+Here's the Video Tuturial for Deploying and Hosting Sato Bot on Heroku.
 
-## ✧✧✧ Heroku Deployment Method:
+## ✧✧✧ طريقة نشر Heroku:
 
 ####  Scan indirectly from my `repl.it`
 
@@ -103,19 +103,19 @@ heroku/nodejs
 ```
 
 
-## ✧✧✧ Join My Whatsapp Group for Support
+## ✧✧✧ انضم إلى My Whatsapp Group للحصول على الدعم
 
 <a href="https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-## ✧✧✧ CMD Deployment Method
+## ✧✧✧ طريقة نشر CMD
 
 ##git clone(https://github.com/Ayush-pandey-u/Chiku-MD.git)
 ##cd Miku-MD
 npm i
 
 
-### ✧ Requirements for CMD istallation:
+### ✧ متطلبات استقالة CMD:
 - Git
 - Node.js
 - Libwebp
@@ -124,7 +124,7 @@ npm i
 Note: If you don't pre-install these plugins before CMD Installation bot couldn't execute name commands!
 </br> 
 
-## ✧✧✧ Termux Deployment Method
+## ✧✧✧ طريقة نشر Termux
 ```js
 apt update
 apt upgrade
@@ -142,7 +142,7 @@ npm i
 npm start
 ```
 
-## ✧✧✧ To keep chiku alive without internet 24/7
+## ✧✧✧ لإبقاء sato على قيد الحياة بدون الإنترنت على مدار الساعة طوال أيام الأسبوع
 
 ```
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
