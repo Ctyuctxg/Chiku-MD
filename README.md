@@ -10,8 +10,7 @@
 </p>
 <h1 align="center">🔱Armin Arlirt🔱
 </h1>
-<p align="center"> 
-  Mohammed Anwer, I am "sato md " a WhatsApp bot made by Armin to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+<p align="center"> محمد أنور ، أنا "sato md" روبوت WhatsApp من صنع Armin للقيام بكل ما هو ممكن على WhatsApp بناءً على دعم WhatsApp Multi Device (MD).
 
 <p align="center">
   <a href="https://github.com/Ayush-pandey-u/Chiku-MD/fork">
@@ -34,11 +33,11 @@
       
 </br> 
    
-#### ✧✧ This bot is still under development so if you want to recode/modify it, pls check this main repo once in 2 days because i am continuously debugging it and making major changes in it.
+#### ✧✧ لا يزال هذا الروبوت قيد التطوير ، لذا إذا كنت تريد إعادة ترميزه / تعديله ، فيرجى التحقق من هذا الريبو الرئيسي مرة واحدة كل يومين لأنني أقوم باستمرار بتصحيحه وإجراء تغييرات كبيرة فيه.
 </br>
   
 
-## ✧✧✧ Why use sato as your Base?
+## ✧✧✧ لماذا تستخدم ساتو كقاعدة لك؟
 
 ```
 1. Copyright Free.
@@ -58,7 +57,7 @@
 ```
 </br>
 
-## ✧✧✧ Video tutorial for Heroku Deploy:
+## ✧✧✧ فيديو تعليمي لنشر Heroku:
 
 <a href="https://youtu.be/DcJ7qMXUcTM"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
 
