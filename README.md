@@ -1,5 +1,7 @@
-<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="center" alt="GIF" src="(https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+![My card name](https://cardivo.vercel.app/api?name=🔱Arimn_Arlirt🔱&description=هاي%20مرحبا%20بك%20في%20بوتي🔱🔱%20&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=Armin&github=Ctyuctxg&twitter=&armin_00=leaf&colorPattern=%23eaeaea)
+<ig src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<ig align="center" alt="GF" src="(https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 
