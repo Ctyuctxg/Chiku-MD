@@ -14,7 +14,7 @@ global.BotName = "🔱*SATO BOT*🔱 `️"
 global.packname = "★ارمين يا قلبي★"
 global.author = "★01279251079★"
 global.OwnerName = "🔱Armin turbo🔱 `️"
-global.BotSourceCode = "https://wa.me/qr/unccrvvz2xpab1"
+global.BotSourceCode = "https://www.instagram.com/tu.r.b.o?r=nametag"
 global.SupportGroupLink = "https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn"
 global.sessionName = "session"
 
