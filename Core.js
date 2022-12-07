@@ -1527,7 +1527,7 @@ case 'الشرح': case 'الوصف':
 *⌬━─━─｢🤖｣─━─━⌬*`)
     break
 
-case 'قائمه.الاباحي':
+case 'قائمه.الهبل':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
     if (!AntiNsfw) return reply(mess.nonsfw)
